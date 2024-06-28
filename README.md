@@ -1,4 +1,4 @@
-# React Native Login Template
+# React Native Auth App
 
 
 
