@@ -4,9 +4,7 @@
 
 
 
-## Demo
 
-https://simple-login-template.web.app
 
 ## How to use?
 
